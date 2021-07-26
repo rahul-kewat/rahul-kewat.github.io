@@ -1,9 +1,4 @@
-/**
-* Template Name: Kewat - v4.3.0
-* Template URL: https://bootstrapmade.com/Kewat-free-simple-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
